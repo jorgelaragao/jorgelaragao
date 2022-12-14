@@ -1,0 +1,5 @@
+- I’m @jorgelaragao
+- I’m interested in software development
+- I’m currently learning HTML | CSS | JAVASCRIPT | PYTHON | PHP | JAVA | SQL | LINUX
+- I’m looking to collaborate on ...
+- How to reach me: 3glasser@gmail.com
